@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64 CMakeFiles/testInvertedImplicit.dir/src/testInvertedImplicit.c.o -o bin/testInvertedImplicit  -Wl,-rpath,/home/jmoraleshilario/L09/dynamiclib/build/lib lib/libinverted.so 

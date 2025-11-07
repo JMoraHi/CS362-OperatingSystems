@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -D_FILE_OFFSET_BITS=64 -shared -Wl,-soname,libinverted.so -o lib/libinverted.so CMakeFiles/inverted.dir/src/inverted.c.o 

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/jmoraleshilario/L09/dynamiclib/build",
+  "command": "/usr/bin/cc -Dinverted_EXPORTS -I/home/jmoraleshilario/L09/dynamiclib/inc  -D_FILE_OFFSET_BITS=64 -std=gnu11 -fPIC -o CMakeFiles/inverted.dir/src/inverted.c.o -c /home/jmoraleshilario/L09/dynamiclib/src/inverted.c",
+  "file": "/home/jmoraleshilario/L09/dynamiclib/src/inverted.c",
+  "output": "CMakeFiles/inverted.dir/src/inverted.c.o"
+},
+{
+  "directory": "/home/jmoraleshilario/L09/dynamiclib/build",
+  "command": "/usr/bin/cc  -I/home/jmoraleshilario/L09/dynamiclib/inc  -D_FILE_OFFSET_BITS=64 -std=gnu11 -o CMakeFiles/testInvertedImplicit.dir/src/testInvertedImplicit.c.o -c /home/jmoraleshilario/L09/dynamiclib/src/testInvertedImplicit.c",
+  "file": "/home/jmoraleshilario/L09/dynamiclib/src/testInvertedImplicit.c",
+  "output": "CMakeFiles/testInvertedImplicit.dir/src/testInvertedImplicit.c.o"
+},
+{
+  "directory": "/home/jmoraleshilario/L09/dynamiclib/build",
+  "command": "/usr/bin/cc  -I/home/jmoraleshilario/L09/dynamiclib/inc  -D_FILE_OFFSET_BITS=64 -std=gnu11 -o CMakeFiles/testInvertedExplicit.dir/src/testInvertedExplicit.c.o -c /home/jmoraleshilario/L09/dynamiclib/src/testInvertedExplicit.c",
+  "file": "/home/jmoraleshilario/L09/dynamiclib/src/testInvertedExplicit.c",
+  "output": "CMakeFiles/testInvertedExplicit.dir/src/testInvertedExplicit.c.o"
+}
+]
