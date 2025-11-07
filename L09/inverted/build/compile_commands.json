@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/jmoraleshilario/L09/inverted/build",
+  "command": "/usr/bin/cc  -I/home/jmoraleshilario/L09/inverted/inc  -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG -std=gnu11 -o CMakeFiles/inverted.dir/src/inverted.c.o -c /home/jmoraleshilario/L09/inverted/src/inverted.c",
+  "file": "/home/jmoraleshilario/L09/inverted/src/inverted.c",
+  "output": "CMakeFiles/inverted.dir/src/inverted.c.o"
+},
+{
+  "directory": "/home/jmoraleshilario/L09/inverted/build",
+  "command": "/usr/bin/cc  -I/home/jmoraleshilario/L09/inverted/inc  -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG -std=gnu11 -o CMakeFiles/inverted.dir/src/testInverted.c.o -c /home/jmoraleshilario/L09/inverted/src/testInverted.c",
+  "file": "/home/jmoraleshilario/L09/inverted/src/testInverted.c",
+  "output": "CMakeFiles/inverted.dir/src/testInverted.c.o"
+}
+]

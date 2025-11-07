@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG CMakeFiles/inverted.dir/src/inverted.c.o CMakeFiles/inverted.dir/src/testInverted.c.o -o bin/inverted 
